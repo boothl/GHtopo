@@ -1,0 +1,32 @@
+{
+  "title":"Boilerplate for new repositories",
+  "description":"Use this boilerplate for all new repositories in the Perkins+Will system",
+  "coverImage":"./_PW/cover.png",
+  "authors"::[{
+    "name":"Kyle Example",
+    "email":"kyle.example@example.com",
+    "role":"developer"
+  }],
+  "offices":[
+    "NewYork",
+    "SanFrancisco"
+  ],
+  "projects":[{
+    "name":"Example Project",
+    "number":"123456.000"
+  }],
+  "marketSectors":[
+    "CCC",
+    "HC"
+  ],
+  "dependencies":[{
+    "author":"Autodesk",
+    "name":"Revit",
+    "version":"2016"
+  }],
+  "tags":[
+    "boilerplate",
+    "example",
+	"Grasshopper"
+  ]
+}
