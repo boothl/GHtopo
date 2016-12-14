@@ -1,8 +1,8 @@
 {
-  "title":"Boilerplate for new repositories",
-  "description":"Use this boilerplate for all new repositories in the Perkins+Will system",
+  "title":"Write the name of your script here",
+  "description":"Write a short description of what your script does here",
   "coverImage":"./_PW/cover.png",
-  "authors"::[{
+  "authors":[{
     "name":"Kyle Example",
     "email":"kyle.example@example.com",
     "role":"developer"
@@ -13,12 +13,9 @@
   ],
   "projects":[{
     "name":"Example Project",
-    "number":"123456.000"
+    "number":"123456.000",
+	"marketSector":"CCC"
   }],
-  "marketSectors":[
-    "CCC",
-    "HC"
-  ],
   "dependencies":[{
     "author":"Autodesk",
     "name":"Revit",
@@ -26,7 +23,6 @@
   }],
   "tags":[
     "boilerplate",
-    "example",
-	"Grasshopper"
+    "example"
   ]
 }
